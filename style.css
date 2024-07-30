@@ -10,7 +10,14 @@
     align-items: center;
     flex-direction: column;
     height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
+  }
+
+  .baslik{
+    margin-top: 2rem;
+    font-size: 3rem;
+    color: white;
   }
   
   
